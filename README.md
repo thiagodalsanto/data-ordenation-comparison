@@ -1,5 +1,5 @@
 # data-ordenation-comparition
 
-Data ordination comparition with Bubble Sort, Insertion Sort, Selection Sort, Shell Sort, Quick Sort, Merge Sort, Heap Sort and Radix Sort on 500K, 750K and 1KK data files made in .TXT files, separated in crescent, decrescent and random order files.
+Programa em C feito para Pesquisa e Ordenação de Dados, disciplina do curso de Ciência da Computação na UTFPR/MD.
 
-C Programm made for Data Search and Ordination, Computer Science Subject at UTFPR.
+Ordenação de dados desenvolvido para uma comparação entre Bubble Sort, Insertion Sort, Selection Sort, Shell Sort, Quick Sort, Merge Sort, Heap Sort e Radix Sort, em arquivos .txt gerados dentro do programa com 500K, 750K e 1KK de dados, sepados em ordem crescente, decrescente e randômica.
